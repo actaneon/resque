@@ -1,0 +1,18 @@
+[submodule "resque"]
+	path = resque
+	url = git@github.com:resque/resque.git
+[submodule "resque-web"]
+	path = resque-web
+	url = git@github.com:resque/resque-web.git
+[submodule "resque-scheduler-web"]
+	path = resque-scheduler-web
+	url = git@github.com:mattgibson/resque-scheduler-web.git
+[submodule "resque-scheduler"]
+	path = resque-scheduler
+	url = git@github.com:resque/resque-scheduler.git
+[submodule "resque-retry"]
+	path = resque-retry
+	url = git@github.com:lantins/resque-retry.git
+[submodule "resque-cleaner"]
+	path = resque-cleaner
+	url = git@github.com:ono/resque-cleaner.git
