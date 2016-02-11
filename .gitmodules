@@ -16,3 +16,6 @@
 [submodule "resque-cleaner"]
 	path = resque-cleaner
 	url = git@github.com:ono/resque-cleaner.git
+[submodule "rufus-scheduler"]
+	path = rufus-scheduler
+	url = git@github.com:jmettraux/rufus-scheduler.git
